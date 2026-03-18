@@ -1,0 +1,693 @@
+() 
+welcome to episode 25 of the credit card
+BS podcast my name is Sean I'm the UC
+Berkeley graduate that created and
+taught the university sponsored course
+on credit card rewards I'm here today
+with my co-host Sherwin hi everyone I'm
+Sherwin I'm a Stanford student who's
+really into the credit cards points
+miles and travel game it's a hobby I got
+into about a year and a half to two
+years ago and since then I've
+accumulated a bunch of points and gone a
+lot of cool trips I'm very happy to be
+talking today with Sean about uh some
+very interesting news in this area um
+but before we get to that the reason
+this podcast is called the credit card
+BS podcast as many of you know by now
+the initials B and S stand for the
+schools Sean and I attend respectively
+Berkeley and Stanford but as usual we
+put aside our differences today to talk
+about credit card rewards so today's
+episode is mileage scalpers expert flyer
+loses Star Alliance award availability
+Sean you want to give us some background
+() 
+yes so what is a mileage scalper mileage
+broker so these are organized companies
+that will essentially grab Mass amounts
+of award seats particularly refundable
+award seats to sell later to people for
+cash at a massively reduced cost
+compared to the retail cash price so if
+a business class ticket sells for $5,000
+you know these Brokers they'll grab the
+seats the award seats they'll hold them
+in refundable dummy accounts and then
+what they'll do is go to people and say
+hey do you want to buy this business
+class ticket on these days for $2,500
+and the person will go yeah that's a
+great deal it normally be $5,000 so then
+they will cancel that dummy ticket and
+then you know knowing assuming the award
+availability goes right back into
+inventory they'll just grab it again put
+the proper passenger name on the ticket
+and then now you've you know they've
+arbitraged their way into making a very
+significant profit because they bought
+the ticket on Miles which you know
+presumably are not worth $2,500 cash
+value and they sold a ticket for $2,500
+the person buying the ticket got a great
+deal compared to retail price but you
+know this is very bad for us because
+they are now grabbing these massive
+amounts of award seats they may grab an
+entire month of award seats on a on a
+given route and so this can work in a
+variety of different ways depending on
+the airline the Loyalty program and the
+award seat release pattern of that
+Airline but this is a huge problem okay
+because there's a lot of fraud going on
+and this leaves a huge amount of seats
+being blocked and it's hurting the
+airlines bottom line and normally you
+know I don't really care if a
+corporation is losing a lot of profit
+but the problem is when this is going on
+when these award seats get taken and the
+airlines start to lose Revenue they may
+start blocking award seats or making it
+harder to book and so Sherwin what have
+you heard about this what is your
+opinion on this going on have you heard
+about these companies before yeah so my
+understanding is that well first of all
+that terms of service of all of these
+different airlines loyalty programs
+clearly prohibit this type of behavior
+of like basically redeeming miles or
+selling them in a way that's
+transactional with other people in
+exchange for some kind of money the
+purpose of these loyalty programs is to
+reward like actual customers or uh or
+credit card users for like your own
+travel or your own family's travel and
+you know by because award availability
+is already very limited I think this is
+super harmful to you know legitimate
+users of these loyalty programs and you
+know um I think it was only a matter of
+time before the airlines had to do
+something about this not only because of
+their revenue issue but because this
+also dissatisfies legitimate customers
+who are struggling to make use of their
+points right if other people are just
+buying them up and reselling them
+exactly and this can be even taken a
+step further so this is kind of
+speculation of my part but from what
+I've heard Japan Airlines you know
+pretty much very consistently used to
+release T14 award availability so 14
+days out on you know first class
+business class very consistently very
+easily and that's really good for the
+average consumer because I can kind of
+reliably know okay if this hasn't been
+taken yet if there's still seats open
+for purchase around 14 days I can grab
+my seat and I can you know kind of count
+on that the problem is this creates a
+very bad opportunity or very I mean for
+the mileage gyers I guess a very good in
+their eyes opportunity where they were
+buying up first class tickets cash and
+because first class tickets on cash are
+fully refundable they would you know
+let's say buy out the whole cabin first
+class and then 14 days out cancel them
+all and because Japan Airlines
+consistently released the award
+availability of any unsold first class
+ticket at 14 days out now we got a full
+cabin of award seats in first class
+let's book them up and scalp them off to
+people and sell it for a profit and so
+because of that behavior Japan Airlines
+is not really consistently releasing the
+T14 award availability anymore and it's
+become so much tougher to book so
+because of the behavior of the scalpers
+and Brokers it has made this game worse
+for all of us so the airlines have to do
+() 
+something about this we all agree they
+need to do something to stop these
+companies because while it's great for
+the those you know brokerage companies
+it's making it harder for all of us so
+what they kind of are trying to do now
+and it's a very weird decision in my
+view is they're trying to go after the
+award searching tools and trying to get
+them to stop displaying their award seat
+inventory so notably what's happened is
+seats. Aro got a cease and assist letter
+from Air Canada aop plan telling them to
+no longer display the aopl award seats
+and luckily for us seats. arrow is
+holding their ground and saying they are
+not complying with that ceent assist
+letter because according to them it has
+no legal basis and but similarly expert
+flyer the other very powerful searching
+tool which is a owned by the parent
+company Red Ventures did also get a
+cease and assist from I don't know which
+airline but they've now basically
+stopped displaying Allstar Alliance
+availability and they are no so expert
+flyer is not fighting this it seems on
+the legal front while seats. arrow is
+and this has become a problem because
+now expert flyer overnight for me at
+least became almost useless because they
+lost like half of their airlines that
+they searched so I immediately
+unsubscribed from expert flyer sure when
+do you use either of these tools and you
+know what are your thoughts on airlines
+going after these searching tools TOS to
+try to prevent scalpers and I should say
+the reason they're doing that is because
+you know they're viewing it as one okay
+they're saying it's their private data
+they don't these companies don't have a
+right to to do web scraping on it and
+two that you know these scalpers
+presumably are using these programs to
+help them and assist them in their
+operations yeah so I think my first
+reaction is that even if you believe and
+understand that web scraping is legal
+and that the airlines demands are
+without legal Merit and I'm just saying
+even if we assume that so I'm not
+necessarily taking a position on that it
+may still make sense for service like
+expert flyer not to fight it because of
+the significant legal costs that would
+be incurred through protracted
+litigation or whatnot so I think a lot
+of times in the legal system you know
+it's not just about whether you're right
+or wrong it's also
+about know sometimes people make
+decisions like oh even though they know
+they're legally right they don't pursue
+something because um litigating it would
+be very costly or does or doesn't make
+sense but I I would agree it's
+unfortunate that um you know expert
+flyer without Star Alliance award
+availabil really just loses a lot of its
+value I mean Star Alliance is the
+biggest Alliance in the world um and
+that is like primary set of programs
+that a lot of people focus on so you
+know I agree it's very unfortunate but I
+also kind of see like they're kind of
+stuck in a bind right now and um I'm not
+sure what's going to happen next to be
+honest yeah and it's interesting to me
+that seats. Arrow which is an
+independent company right it's just
+founded by one guy it's an independent
+company is the one choosing to fight
+this very potentially expensive legal
+battle yet expert flyer which is owned
+by a huge I think multi-billion dollar
+company if I'm not correct I I know it's
+a multi-billion dollar industry but I
+know Red Ventures is a huge company and
+they're the ones choosing not to fight
+it now maybe that's because uh you know
+Red Ventures potentially has more to
+lose in that regard I don't know but
+what we can do as consumers is if you
+were affected by this you know expert
+flyer not allowing Star Alliance award
+availability I immediately unsubscribed
+and what we'd like to do is make this a
+more costly thing for expert flyer to
+not fight this legal battle I'm hoping
+in a sense they will lose so many
+consumers
+from not showing Star Alliance award
+availability CU keep in mind that's like
+50% of their entire searching tool they
+just cut it in half overnight and so if
+enough people unsubscribe because they
+you know are now upset with expert flyer
+it could be the case where it would be
+cheaper for expert flyer to try to fight
+this legal battle and hopefully come out
+on top I mean do you know if like expert
+Flyers taking down the star lines
+availability as a temporary measure
+while they figure out this stuff or is
+this like a an intentional or like um an
+intentional like permanent thing going
+forward yeah I was reading I think it
+was like a tweet or a flyer talk post of
+someone I think it was the founder of
+expert flyer someone high up and I I
+forget exactly what it was but basically
+the sound of it was no this is not
+coming back anytime soon this is not a
+temporary measure don't hold your breath
+for Star Alliance award data coming back
+into the the searching program anytime
+soon yeah do you know expert if expert
+flyer does like the web script or do
+they get the underlying data
+from some database that they have access
+to or like an AP so officially I don't
+think they've published anything about
+that but the speculation at least from
+omat is that they were using United
+airlines' website uh for web scraping
+for most of the Star Alliance award
+availability and part of that was
+because you and like this is also
+speculation that for the most Star
+Alliance on their award searching they
+did not display the number of seats open
+when a seat you know when they were open
+it would only display like you would
+search the number of passengers you want
+and it would say like yes you can book
+this these seats are open or no it is
+not and so that's like a what United
+does as well so I mean I'm not very
+confident that that's the full story
+though because a lot of times from my
+understand expert flyer would show
+things that are not available directly
+online like upgrade award space for some
+Airlines I think we talked about past on
+the podcast so this makes me believe
+that it's possible they have
+access to some API that they purchased
+or some underlying other data source
+that is now made unavailable to them
+like that so this would just go beyond
+the legal question of scraping it might
+be like oh their Source was cut off what
+do you think that might be true but if
+that was true I'm they could then just
+go the web scraping route similar to
+what C arrow is doing right so that that
+is a good point though they I don't know
+of course like how because it is a very
+program and they can show a lot of very
+specific real time information so in
+terms of how they're implementing that
+in the back end I don't know but it
+seems like something's going on with
+these airlines not wanting to to you
+know allow these tools to use it and
+their argument of course is being that
+this is their you know proprietary data
+that they're they're willing to display
+it to members of their program but it's
+not okay to use this for a web scraping
+purp purpose now my opinion on these
+moves in terms of if they're going to
+() 
+work or not is I'm just I'm going to
+flat out say I don't believe they're
+going to work to stop scalpers because
+if this this mileage brokering business
+is so profitable which it appears to be
+these companies will just invest and
+develop their own tools the air one of
+the Air Canada Executives themselves
+said it's very easy for them to develop
+a Star Alliance award uh you know
+aggregator themselves if they wanted to
+and of course you know they have access
+to the proprietary data much easier but
+these comp it's not that fundamentally
+you know difficult to make an award
+aggregator for something like this if
+they if someone really really wanted to
+so these companies if they're so
+profitable will just make their own
+tools and so when they make their own
+tools and then all the public ones get
+shut down we're now in a situation where
+the mileage Brokers have all the
+powerful tools to find these Awards and
+grab them immediately and the consumers
+don't and we have you know much less
+powerful tools just you know using the
+airlines websites directly and so we're
+now even fighting a worse battle here so
+what do I think we can do to prevent
+() 
+scalpers and help reduce this that would
+be effective against the scalpers but
+you know not hurt consumers much so
+mainly it would just be restrictions
+that would mainly apply to scalpers so
+one would be and some programs do this
+like a lot of programs do this but a lot
+of programs don't do this where you have
+like a limited number of nominations for
+your loyalty account and those can only
+be changed every so often right so if
+you own a loyalty account and you can
+only redeem for let's say three four
+other people and that can only be
+changed every 3 four months that account
+will not be you very useful
+to scale for a mileage broker if they're
+selling you know tens hundreds of
+tickets a day so that's like one thing
+and that won't affect the average
+consumer much it's annoying if you want
+to book for your whole you know friend
+group or whatever but that's something
+that can be done that wouldn't affect
+the average consumer another idea is
+like cancellation fees so this is a
+particular problem with like Air Canada
+where they have cancellation fees but
+not but they're waved for their top tier
+Elites super Elite and so the mileage
+Brokers are just using accounts with
+super Elite status to then book awards
+and then cancel them without any
+repercussions or fees yeah and I want to
+quickly mention um like the Japan
+Airlines thing you said earlier like one
+of the best ways to book Japan Airlines
+as we've talked about check out episode
+two um is through American Airlines
+miles and American has this great policy
+where you can cancel and change any
+award without any fee if I call like you
+can literally cancel and not incur any
+penalty I think that's great for
+consumers but I think there may be a
+connection between this and the Japan
+Airlines um award availability being
+take it up really
+quickly I I agree yeah I think that is
+probably what's going on and I and to be
+clear here I don't want cancellation
+fees okay I hate when there's
+cancellation fees I love American Miles
+because I can just cancel you know
+freely and not think about it uh but
+there's going to be H there's going to
+have to be some restriction that we put
+in place uh even if it's like you have
+to be a direct family member or or a
+very limited number of friends that are
+nominated I think we're we're going to
+have to do that because you know our
+options here are either okay we going to
+let these mileage Brokers keep getting
+away with it and taking all the award
+inventory or we can lose all our award
+Searchers or we're going to implement
+you know heavy cancellation fees for me
+the best who just be adding nominations
+to the account but so what is your
+opinion and what do you think you know
+could be done about this what do you
+think that might might be the best move
+to make here that would be the best for
+consumers and that would do the most to
+stop these mileage Brokers yeah I mean I
+like the nomination list thing but as
+long as not too burdensome or annoy I
+think some programs have really annoying
+like family member policies that require
+you to jump through a lot of steps and I
+don't think that's in anyone's best
+interest but some sort of reasonable
+limitation I think would be good with
+regard to the cancellation fees you know
+again as with Sean I really don't like
+cancellation Fe one of the reasons I
+like Hotel loyalty programs a lot is
+because they have very flexible
+cancellation policies with respect to
+Awards um and I think you know I see
+Americans removing of cancellations fees
+as a huge Improvement and you know it's
+one of the reasons why I think Air
+Canada while I like their loyalty
+program is sometimes hard for me to use
+just because the cancellation fees are
+super punitive I think it's like $150
+Canadian dollar so I think there needs
+to be balance I think you know if
+American change their policies like you
+can cancel
+five Awards per year or something that
+could be reasonable because the average
+person might only need to
+cancel three four or five a year uh but
+like it would affect a scalper who's
+doing hundreds of bookings what do you
+think yeah I think that that's a good a
+good like Middle Ground there where for
+most people it would be fine yeah it's
+just a shame that this is you know
+happening to such a a l large scale cuz
+I mean in in our Discord server by the
+way check out the Discord server travel
+Lane first link in the description
+but so one of our members he was talking
+like he was sending some screenshots
+from like the social media accounts of
+these you know scalpers and they're very
+successful you know they're saying we
+book J first Lu tanza first all these
+very nice first class seats and
+presumably they're selling it for quite
+a lot of money relative to the mileage
+cost and so because they're making so
+much profit per ticket and their
+customers are so happy because their
+customers right are getting this1
+$20,000 ticket for probably like half
+off or less so between those you know
+those two interactions they're very
+happy but the problem is for us is
+screwing us over yeah I I don't like cuz
+I think the whole point of a war travel
+is because these are such insane deals
+the availability is hard or because the
+availability is hard these are such
+insane deals and when you try to
+decouple those two the supply and demand
+just goes Ari um or arai and then that
+yeah they're basically selling people
+the war tickets without people having to
+put in the work to research these these
+programs and to find availability and I
+think that's fundamentally
+unfair yeah exactly and just as a final
+kind of note here now neither of us are
+lawyers of course but in terms of the
+legal precedent of web scraping you know
+ignoring all morality aspects and and
+who this is better for is seats. Arrow
+() 
+allowed to web scrape and is expert
+flyer allowed to web scrape on these
+sites you know I I do you know anything
+of the precedent that has been put in
+place I mean according to se. Arrow of
+course they're claiming it's completely
+legal what they're doing and according
+to you know Air Canada they're saying
+it's completely illegal of what they're
+doing so what does it seem in terms of
+historically who would be right here
+yeah I think this is a tricky question
+because it's a fairly new area of law
+that doesn't have super settled
+precedence and also depends on
+jurisdiction like the law of the United
+States may arrive at a different
+conclusion than that of Canada for
+example so um you have to be really
+careful I think the most relevant cases
+to look at are
+um first vanan versus United States this
+is Supreme Court case from 2021
+interpreted the cfaa or the Computer
+Fraud and Abuse Act and its basic
+holding was that a person exceeds
+authorized access and therefore violates
+the
+cfaa only if they access certain uh
+files um or parts of a computer that are
+like off limits to them so for example
+if I if I do have the right password to
+get into something and I'm allowed to
+have that password by use it for an
+improper purpose that's not itself a
+violation of cfaa I will have had to
+hack the password or Infiltrate The
+System in some way for it to be a
+violation of this law so the court of
+appeals for the ninth circuit um applied
+that decision to a recent case it's
+called highq Labs versus LinkedIn Corp
+and although it did not settle the law
+of web scraping it said it was unlikely
+um that it would be a violation of the
+cfaa uh for a person to do web scraping
+and that they were
+accessing information on Moss that was
+already publicly available uh the mere
+um rapid traversal and accessing of
+publicly uh available data itself is
+likely not a violation of the CFA
+according to the knife Circuit of course
+other circuits are dis jurisdictions
+could come to different conclusions and
+again this is a very unsettled area of
+the law so I would encourage you to do
+your own research into his conclusions
+nothing here is legal
+advice definitely yeah but so in
+according to the legal precedents or
+according to what we've seen in the past
+it does look like to some degree web
+scraping is legal but of course as you
+said previously it's not always about
+who's right it's about who has the
+biggest wallet and so if the airlines
+want to you know dump these massive
+legal battles on these smaller companies
+they may end up winning regardless of
+who's right or not but what we can do as
+consumers is you know we want to you
+know reward the companies that are
+trying to fight this like c. Aro uh I am
+subscribed to c. Aro I think it's a very
+very powerful award searching tool we
+are not sponsored by them I hope to one
+day maybe but we're not sponsored by
+them currently on this episode but very
+you know very powerful tool and I do
+hope that they end up winning the legal
+battle between them and Air Canada
+because I don't see them if they lose I
+don't see it really helping us much
+against the fight uh you know against
+mileage scalpers at all so I think the
+airlines are picking the wrong battle
+here to fight and they should really
+just focus on you know making certain
+restrictions in place that would really
+only affect the mile scalpers versus the
+average consumer but is there anything
+else you have to add shman I think
+that's it for me yeah I think really
+quickly before we wrap up um if these
+() 
+tools continue to be unavailable or
+become unavailable what do you think is
+the best way to find Star Alliance W
+availability oh that's a that's a good
+question I mean so of course c. Arrow
+you can still find they still have
+access to the star line to W
+availability another tool I use is seat
+spy so that one's really cool because
+for the programs it has you can display
+an entire year of award availability at
+once in one search even round trip the
+biggest limitation I I find on seat spy
+is it doesn't like have like Airline
+partner programs technically so like if
+I want to search Ana flights on Star
+Alliance they don't have Ana so like
+could search United and sometimes it
+kind of displays but not really like
+you're only supposed to search for that
+Airline like metal like their own
+product and it's also only works for
+direct flights no nothing with
+connections so that kind of works of
+course you can just use the star like
+any kind of Star Alliance Airline
+website so you can use the United
+website and do an award search there
+yeah I don't like it that much but I
+think that's that's really going to be
+some of our only options even cow tool
+if you're familiar with cow tool it's it
+was a free program that was
+extraordinarily powerful for searching
+for Star Alliance award space and the
+founder of that shut it down and they
+claim it's not because they of any
+Airline asking them to do it they claim
+it was completely their own decision but
+it's a shame because that was such a
+powerful tool and so now it's become a
+lot harder to search for these things I
+think mainly though it's going to be a
+tool like seat spy seats. Arrow or
+searching on a Star Alliance website how
+about for you yeah I think it's
+unfortunate the C to is no longer
+available that was one of my favorite
+tools um cuz it just aggregated data
+from a so efficiently um I think United
+search United websites like calendar is
+probably your best bet you can filter by
+class and you know it's kind of slow and
+annoying sometimes but you can do month
+by month instead uh instead of trying to
+do like day byday searches in Ana with
+the round trip setting like good luck
+with that
+one so uh yeah so I think that's all for
+() 
+today's episode thank you all so much
+for listening to today's special topic
+um if you like what you heard please
+please please consider subscribing to
+our YouTube channel um or wherever you
+listen to your podcast it really helps
+us out we're getting very close to a
+th000 subscribers on YouTube um very
+exciting um and Sean do you want to plug
+our referrals in our Discord yes so if
+you want to connect with an elite group
+of award Travelers 100% for free check
+out the travel Lane Discord group at the
+link in the description we'll drop deal
+alerts and other amazing you know things
+to check take a look at you'll learn a
+lot and 100% for free if you want to
+help help support us directly the
+easiest way to do that is to use our
+credit card affiliate links whenever you
+choose to apply for a credit card that
+is also at the link in the description
+just make sure the signup offer is
+competitive but it is by far the best
+way to help support us so I hope you've
+enjoyed today's episode and we will see
+you next week
