@@ -1,10 +1,10 @@
 {
   "channel": "CreditCardBS",
   "channel_url": "https://www.youtube.com/@CreditCardBS",
-  "last_updated": "2026-03-18T08:54:03.019460+00:00",
+  "last_updated": "2026-03-18T14:39:01.208241+00:00",
   "total_videos": 224,
-  "transcripts_fetched": 130,
-  "transcripts_failed": 94,
+  "transcripts_fetched": 144,
+  "transcripts_failed": 80,
   "videos": [
     {
       "video_id": "Ct8PEpAWvdM",
@@ -149,118 +149,6 @@
       "has_transcript": true,
       "error": null,
       "filename": "2025-08-10_citi-strata-elite-new-favorite-or-complete-failure-full-analysis.txt"
-    },
-    {
-      "video_id": "shKM7AATPfM",
-      "title": "Hotel Loyalty Program Wishlist",
-      "upload_date": "",
-      "filename": "0000-00-00_hotel-loyalty-program-wishlist.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] shKM7AATPfM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "6YXZiITdPZs",
-      "title": "Citi Credit Card Approval Algorithm Secrets",
-      "upload_date": "",
-      "filename": "0000-00-00_citi-credit-card-approval-algorithm-secrets.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 6YXZiITdPZs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "RdnvaulbY7U",
-      "title": "Make PROFIT Paying Taxes with Credit Card 2025 Complete Updated Guide",
-      "upload_date": "",
-      "filename": "0000-00-00_make-profit-paying-taxes-with-credit-card-2025-complete-updated-guide.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] RdnvaulbY7U: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "sji1BrllzXo",
-      "title": "NEW AA and Hyatt Partnership 2025 Updates",
-      "upload_date": "",
-      "filename": "0000-00-00_new-aa-and-hyatt-partnership-2025-updates.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] sji1BrllzXo: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "iSVLynvMYto",
-      "title": "2025 Credit Card and Travel Predictions",
-      "upload_date": "",
-      "filename": "0000-00-00_2025-credit-card-and-travel-predictions.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] iSVLynvMYto: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "s2UHmBMw7eo",
-      "title": "Etihad Airlines First Class HACKS",
-      "upload_date": "",
-      "filename": "0000-00-00_etihad-airlines-first-class-hacks.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] s2UHmBMw7eo: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "Kx_bqI8Oz7c",
-      "title": "Hotel Business Credit Cards: The Good and the Bad",
-      "upload_date": "",
-      "filename": "0000-00-00_hotel-business-credit-cards-the-good-and-the-bad.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] Kx_bqI8Oz7c: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "jqtSoinv37w",
-      "title": "Chase changed its approval algorithm. (MUST WATCH)",
-      "upload_date": "",
-      "filename": "0000-00-00_chase-changed-its-approval-algorithm-must-watch.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] jqtSoinv37w: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "V8XwrBRevOw",
-      "title": "ANA First Class HACKS (Cheapest Way to Fly FIRST to Japan)",
-      "upload_date": "",
-      "filename": "0000-00-00_ana-first-class-hacks-cheapest-way-to-fly-first-to-japan.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] V8XwrBRevOw: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "cdX048kkZGg",
-      "title": "The Apple Card: a Multibillion-Dollar Disaster",
-      "upload_date": "",
-      "filename": "0000-00-00_the-apple-card-a-multibillion-dollar-disaster.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] cdX048kkZGg: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "jm5h4-4-CMI",
-      "title": "Is the new US Bank Smartly card TRASH?",
-      "upload_date": "",
-      "filename": "0000-00-00_is-the-new-us-bank-smartly-card-trash.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] jm5h4-4-CMI: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "9oYFxAcKNPU",
-      "title": "Our 2025 Hotel and Airline Status Strategy",
-      "upload_date": "",
-      "filename": "0000-00-00_our-2025-hotel-and-airline-status-strategy.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 9oYFxAcKNPU: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "0iKZhfY26rI",
-      "title": "I Used AI to Plan My Credit Card Strategy. Here's What Happened.",
-      "upload_date": "",
-      "filename": "0000-00-00_i-used-ai-to-plan-my-credit-card-strategy-here-s-what-happened.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 0iKZhfY26rI: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "8xZRQLf1MM0",
-      "title": "Maui Hotel HACKS",
-      "upload_date": "",
-      "filename": "0000-00-00_maui-hotel-hacks.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 8xZRQLf1MM0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
     },
     {
       "video_id": "c4L6DIp_s_E",
@@ -901,6 +789,118 @@
       "filename": "0000-00-00_ihg-hacks-credit-card-bs-podcast-ep-1-stanford-and-berkeley-students-discuss.txt",
       "has_transcript": false,
       "error": "ERROR: [youtube] D53d7uGXmLs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "video_id": "8xZRQLf1MM0",
+      "title": "Maui Hotel HACKS",
+      "upload_date": "20241027",
+      "filename": "2024-10-27_maui-hotel-hacks.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "0iKZhfY26rI",
+      "title": "I Used AI to Plan My Credit Card Strategy. Here's What Happened.",
+      "upload_date": "20241103",
+      "filename": "2024-11-03_i-used-ai-to-plan-my-credit-card-strategy-here-s-what-happened.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "9oYFxAcKNPU",
+      "title": "Our 2025 Hotel and Airline Status Strategy",
+      "upload_date": "20241111",
+      "filename": "2024-11-11_our-2025-hotel-and-airline-status-strategy.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "jm5h4-4-CMI",
+      "title": "Is the new US Bank Smartly card TRASH?",
+      "upload_date": "20241117",
+      "filename": "2024-11-17_is-the-new-us-bank-smartly-card-trash.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "cdX048kkZGg",
+      "title": "The Apple Card: a Multibillion-Dollar Disaster",
+      "upload_date": "20241124",
+      "filename": "2024-11-24_the-apple-card-a-multibillion-dollar-disaster.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "V8XwrBRevOw",
+      "title": "ANA First Class HACKS (Cheapest Way to Fly FIRST to Japan)",
+      "upload_date": "20241201",
+      "filename": "2024-12-01_ana-first-class-hacks-cheapest-way-to-fly-first-to-japan.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "jqtSoinv37w",
+      "title": "Chase changed its approval algorithm. (MUST WATCH)",
+      "upload_date": "20241208",
+      "filename": "2024-12-08_chase-changed-its-approval-algorithm-must-watch.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "Kx_bqI8Oz7c",
+      "title": "Hotel Business Credit Cards: The Good and the Bad",
+      "upload_date": "20241215",
+      "filename": "2024-12-15_hotel-business-credit-cards-the-good-and-the-bad.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "s2UHmBMw7eo",
+      "title": "Etihad Airlines First Class HACKS",
+      "upload_date": "20241222",
+      "filename": "2024-12-22_etihad-airlines-first-class-hacks.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "iSVLynvMYto",
+      "title": "2025 Credit Card and Travel Predictions",
+      "upload_date": "20250101",
+      "filename": "2025-01-01_2025-credit-card-and-travel-predictions.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "sji1BrllzXo",
+      "title": "NEW AA and Hyatt Partnership 2025 Updates",
+      "upload_date": "20250110",
+      "filename": "2025-01-10_new-aa-and-hyatt-partnership-2025-updates.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "RdnvaulbY7U",
+      "title": "Make PROFIT Paying Taxes with Credit Card 2025 Complete Updated Guide",
+      "upload_date": "20250112",
+      "filename": "2025-01-12_make-profit-paying-taxes-with-credit-card-2025-complete-updated-guide.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "6YXZiITdPZs",
+      "title": "Citi Credit Card Approval Algorithm Secrets",
+      "upload_date": "20250123",
+      "filename": "2025-01-23_citi-credit-card-approval-algorithm-secrets.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "shKM7AATPfM",
+      "title": "Hotel Loyalty Program Wishlist",
+      "upload_date": "20250126",
+      "filename": "2025-01-26_hotel-loyalty-program-wishlist.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "MAuBlN8p2b8",
