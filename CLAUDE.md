@@ -8,23 +8,32 @@ This is a content/data repository containing transcripts from credit card and tr
 
 ## Repository Structure
 
-- `transcripts/` - 154 text files containing raw transcripts (named by topic, e.g., `amex_platinum_refresh_is_now_live.txt`)
+- `knowledge_base/` - Primary transcript store (AI-optimized, with metadata)
+  - `transcripts/` - Individual transcript files with YAML metadata headers (`YYYY-MM-DD_title.txt`)
+  - `index.json` - Master catalog of all episodes with metadata
+  - `all_transcripts.txt` - Combined file with delimiters for bulk AI ingestion
+- `transcripts/` - Legacy: 154 raw transcripts (no metadata)
 - `summaries/` - Synthesized markdown guides compiled from multiple transcripts
-- `all_transcripts_combined.txt` - Single file with all transcripts concatenated
-- `extract_transcripts.py` - Python script to split combined transcripts into individual files
+- `fetch_transcripts.py` - Downloads audio from RSS feed and transcribes with Whisper (incremental)
+- `search.py` - Keyword search across all transcripts
+- `extract_transcripts.py` - Legacy script to split combined transcripts
 
 ## Common Tasks
 
-### Extract transcripts from combined file
+### Fetch/update all transcripts
 ```bash
-python extract_transcripts.py
+python fetch_transcripts.py
 ```
-Note: The script currently outputs to `organized_transcripts/` directory (hardcoded path).
+Incremental: re-run to fetch only new episodes. Uses Buzzsprout RSS + Whisper (tiny model).
 
-### Search transcripts for specific topics
+### Search transcripts
 ```bash
-grep -ri "chase sapphire" transcripts/
+python search.py "Hyatt hotels"
+python search.py --limit 5 "chase sapphire bonus"
 ```
+
+### AI analysis
+Point Claude at `knowledge_base/all_transcripts.txt` or individual files in `knowledge_base/transcripts/` for deep analysis queries.
 
 ## Content Topics Covered
 
