@@ -10,6 +10,8 @@ import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
+import http.cookiejar
+
 import requests
 import yt_dlp
 
@@ -22,7 +24,7 @@ COMBINED_PATH = KB_DIR / "all_transcripts.txt"
 ERRORS_PATH = KB_DIR / "errors.log"
 COOKIES_PATH = BASE_DIR / "cookies.txt"
 
-SLEEP_BETWEEN_REQUESTS = 2.0
+SLEEP_BETWEEN_REQUESTS = 10.0
 
 
 def slugify(title: str, max_length: int = 80) -> str:
@@ -111,9 +113,16 @@ def fetch_transcript(video_id: str) -> tuple[str | None, str | None, str | None]
         if not cap_url:
             return None, upload_date, "No json3 caption format available"
 
+        # Load cookies for the caption request
+        session = requests.Session()
+        if COOKIES_PATH.exists():
+            cj = http.cookiejar.MozillaCookieJar(str(COOKIES_PATH))
+            cj.load(ignore_discard=True, ignore_expires=True)
+            session.cookies = cj
+
         # Download and parse captions with retry for rate limiting
         for attempt in range(3):
-            resp = requests.get(cap_url, timeout=30)
+            resp = session.get(cap_url, timeout=30)
             if resp.status_code == 429:
                 wait = 30 * (attempt + 1)
                 print(f"  Rate limited, waiting {wait}s...", file=sys.stderr)
