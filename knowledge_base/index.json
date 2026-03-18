@@ -1,10 +1,10 @@
 {
   "channel": "CreditCardBS",
   "channel_url": "https://www.youtube.com/@CreditCardBS",
-  "last_updated": "2026-03-18T14:39:01.208241+00:00",
+  "last_updated": "2026-03-18T15:54:17.417115+00:00",
   "total_videos": 224,
-  "transcripts_fetched": 144,
-  "transcripts_failed": 80,
+  "transcripts_fetched": 224,
+  "transcripts_failed": 0,
   "videos": [
     {
       "video_id": "Ct8PEpAWvdM",
@@ -154,641 +154,641 @@
       "video_id": "c4L6DIp_s_E",
       "title": "Is The Bilt Walgreens Partnership TRASH?!",
       "upload_date": "",
-      "filename": "0000-00-00_is-the-bilt-walgreens-partnership-trash.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] c4L6DIp_s_E: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "cBgF4at_VG8",
-      "title": "NEVER Cancel a Credit Card (Product Changing Full Guide)",
-      "upload_date": "",
-      "filename": "0000-00-00_never-cancel-a-credit-card-product-changing-full-guide.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] cBgF4at_VG8: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "UapPCxW6hGs",
-      "title": "Earn A TON Of Miles WITHOUT Credit Cards (Shopping Portals Explained)",
-      "upload_date": "",
-      "filename": "0000-00-00_earn-a-ton-of-miles-without-credit-cards-shopping-portals-explained.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] UapPCxW6hGs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "SojrPMttizM",
-      "title": "Southwest Companion Pass HACKS",
-      "upload_date": "",
-      "filename": "0000-00-00_southwest-companion-pass-hacks.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] SojrPMttizM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "wQaxS2ugjV0",
-      "title": "The Ultimate Award Travel Tool Explained (Seats.Aero)",
-      "upload_date": "",
-      "filename": "0000-00-00_the-ultimate-award-travel-tool-explained-seats-aero.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] wQaxS2ugjV0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "AwlXEoReCfM",
-      "title": "How to Become a Hotel Complaint EXPERT",
-      "upload_date": "",
-      "filename": "0000-00-00_how-to-become-a-hotel-complaint-expert.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] AwlXEoReCfM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "OkxgPJ4jC5g",
-      "title": "Hilton Luxury Brands Explained (Waldorf Astoria, Conrad, LXR)",
-      "upload_date": "",
-      "filename": "0000-00-00_hilton-luxury-brands-explained-waldorf-astoria-conrad-lxr.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] OkxgPJ4jC5g: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "xooU6LxzldU",
-      "title": "Most *UNDERRATED* Points Redemption EVER? Virgin Voyages Explained",
-      "upload_date": "",
-      "filename": "0000-00-00_most-underrated-points-redemption-ever-virgin-voyages-explained.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] xooU6LxzldU: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-10-20_is-the-bilt-walgreens-partnership-trash.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "yl75-Y8Wwow",
       "title": "SECRET Hilton Credit Card Strategy",
       "upload_date": "",
-      "filename": "0000-00-00_secret-hilton-credit-card-strategy.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] yl75-Y8Wwow: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-08-25_secret-hilton-credit-card-strategy.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "JLF_ew398ps",
       "title": "American Airlines HACKS (Get Amazing Value)",
       "upload_date": "",
-      "filename": "0000-00-00_american-airlines-hacks-get-amazing-value.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] JLF_ew398ps: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-08-18_american-airlines-hacks-get-amazing-value.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "g9IZPEASG_A",
       "title": "NEW Hotel Partnerships (Hilton SLH and Hyatt Mr & Mrs Smith)",
       "upload_date": "",
-      "filename": "0000-00-00_new-hotel-partnerships-hilton-slh-and-hyatt-mr-mrs-smith.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] g9IZPEASG_A: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "MAdMRmeciVM",
-      "title": "Credit Card Reconsideration Guide (No More Denials)",
-      "upload_date": "",
-      "filename": "0000-00-00_credit-card-reconsideration-guide-no-more-denials.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] MAdMRmeciVM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "swRIS_dYx54",
-      "title": "Our Credit Card MISTAKES and REGRETS",
-      "upload_date": "",
-      "filename": "0000-00-00_our-credit-card-mistakes-and-regrets.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] swRIS_dYx54: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "ZfyGG4OgICc",
-      "title": "AMEX GOLD REFRESH Fully Explained",
-      "upload_date": "",
-      "filename": "0000-00-00_amex-gold-refresh-fully-explained.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ZfyGG4OgICc: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "gbXGClAjq7Q",
-      "title": "Are Luxury Hotels OVERRATED?",
-      "upload_date": "",
-      "filename": "0000-00-00_are-luxury-hotels-overrated.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] gbXGClAjq7Q: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "3dWyY8haiUE",
-      "title": "Get Hotel Elite Perks WITHOUT Status (Preferred Hotel Programs Guide)",
-      "upload_date": "",
-      "filename": "0000-00-00_get-hotel-elite-perks-without-status-preferred-hotel-programs-guide.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 3dWyY8haiUE: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "N50DftH3raw",
-      "title": "Family Travel HACKS (Ft. Luke's Points and Miles)",
-      "upload_date": "",
-      "filename": "0000-00-00_family-travel-hacks-ft-luke-s-points-and-miles.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] N50DftH3raw: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "1-lFerXxpvI",
-      "title": "Is Priority Pass RUINED?",
-      "upload_date": "",
-      "filename": "0000-00-00_is-priority-pass-ruined.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 1-lFerXxpvI: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "rASnxO-OfCQ",
-      "title": "The Top 5 OVERRATED Credit Cards",
-      "upload_date": "",
-      "filename": "0000-00-00_the-top-5-overrated-credit-cards.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] rASnxO-OfCQ: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "NaActbSFneQ",
-      "title": "Are IHG Milestones Worth Chasing?",
-      "upload_date": "",
-      "filename": "0000-00-00_are-ihg-milestones-worth-chasing.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] NaActbSFneQ: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "ocgt8JHhvko",
-      "title": "ECONOMY Flight Survival Guide",
-      "upload_date": "",
-      "filename": "0000-00-00_economy-flight-survival-guide.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ocgt8JHhvko: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "7t4pgMtteGk",
-      "title": "Earn 5x POINTS on EVERYTHING With These Credit Cards",
-      "upload_date": "",
-      "filename": "0000-00-00_earn-5x-points-on-everything-with-these-credit-cards.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 7t4pgMtteGk: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-08-11_new-hotel-partnerships-hilton-slh-and-hyatt-mr-mrs-smith.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "yLo758PsK6c",
       "title": "Every Marriott Bonvoy Brand Explained",
       "upload_date": "",
-      "filename": "0000-00-00_every-marriott-bonvoy-brand-explained.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] yLo758PsK6c: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-05-26_every-marriott-bonvoy-brand-explained.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "zWmzMLYrQaw",
       "title": "STOP Spending on Co-Branded Credit Cards",
       "upload_date": "",
-      "filename": "0000-00-00_stop-spending-on-co-branded-credit-cards.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] zWmzMLYrQaw: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-05-19_stop-spending-on-co-branded-credit-cards.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "HEZnaG146Mc",
       "title": "United Airlines HACKS (what you need to know ft. Sathvik)",
       "upload_date": "",
-      "filename": "0000-00-00_united-airlines-hacks-what-you-need-to-know-ft-sathvik.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] HEZnaG146Mc: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-05-12_united-airlines-hacks-what-you-need-to-know-ft-sathvik.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "rNvDav8Mz_8",
       "title": "AVOID These TRASH Credit Card Transfer Partners",
       "upload_date": "",
-      "filename": "0000-00-00_avoid-these-trash-credit-card-transfer-partners.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] rNvDav8Mz_8: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-05-05_avoid-these-trash-credit-card-transfer-partners.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "8Q3ATDRJ21Q",
       "title": "How To Earn A TON of Chase Points (Low Annual Fee Strategy)",
       "upload_date": "",
-      "filename": "0000-00-00_how-to-earn-a-ton-of-chase-points-low-annual-fee-strategy.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 8Q3ATDRJ21Q: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-04-28_how-to-earn-a-ton-of-chase-points-low-annual-fee-strategy.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "kHgv7CjGwMw",
       "title": "Why Using Credit Card Points for Flights is SO HARD (and what you can do about it)",
       "upload_date": "",
-      "filename": "0000-00-00_why-using-credit-card-points-for-flights-is-so-hard-and-what-you-can-do-about-it.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] kHgv7CjGwMw: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-04-21_why-using-credit-card-points-for-flights-is-so-hard-and-what-you-can-do-about-it.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "dfThQy2oQHI",
       "title": "Every World of Hyatt Brand Explained",
       "upload_date": "",
-      "filename": "0000-00-00_every-world-of-hyatt-brand-explained.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] dfThQy2oQHI: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-04-14_every-world-of-hyatt-brand-explained.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "ja2if3DNkUk",
       "title": "The 8 Biggest Credit Score MYTHS",
       "upload_date": "",
-      "filename": "0000-00-00_the-8-biggest-credit-score-myths.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ja2if3DNkUk: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-04-07_the-8-biggest-credit-score-myths.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "QZytsVDtdo4",
       "title": "Should You Speculatively Transfer Credit Card Points?",
       "upload_date": "",
-      "filename": "0000-00-00_should-you-speculatively-transfer-credit-card-points.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] QZytsVDtdo4: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-03-31_should-you-speculatively-transfer-credit-card-points.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "nD7dQ0UWqX4",
       "title": "Our Biggest Travel Pet Peeves",
       "upload_date": "",
-      "filename": "0000-00-00_our-biggest-travel-pet-peeves.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] nD7dQ0UWqX4: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-03-24_our-biggest-travel-pet-peeves.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "IdFDGqrMPDw",
       "title": "2024 Las Vegas HACKS | High Roller Treatment With No Gambling",
       "upload_date": "",
-      "filename": "0000-00-00_2024-las-vegas-hacks-high-roller-treatment-with-no-gambling.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] IdFDGqrMPDw: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-03-17_2024-las-vegas-hacks-high-roller-treatment-with-no-gambling.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "rdAh_xa5HdU",
       "title": "NEW Wells Fargo Autograph Journey Card (what you need to know)",
       "upload_date": "",
-      "filename": "0000-00-00_new-wells-fargo-autograph-journey-card-what-you-need-to-know.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] rdAh_xa5HdU: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-03-10_new-wells-fargo-autograph-journey-card-what-you-need-to-know.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "C26Vw9FUAJA",
       "title": "Is Budget Travel Trash?! (Ft. Anthony Venture) | Credit Card BS Podcast Ep. 44",
       "upload_date": "",
-      "filename": "0000-00-00_is-budget-travel-trash-ft-anthony-venture-credit-card-bs-podcast-ep-44.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] C26Vw9FUAJA: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-03-03_is-budget-travel-trash-ft-anthony-venture-credit-card-bs-podcast-ep-44.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "BkKNfFFEwEk",
       "title": "2024 Hyatt DEVALUATION Explained (Act Fast)",
       "upload_date": "",
-      "filename": "0000-00-00_2024-hyatt-devaluation-explained-act-fast.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] BkKNfFFEwEk: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-02-28_2024-hyatt-devaluation-explained-act-fast.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "-QrGCWqKgnU",
       "title": "Is it Entitled to Expect a Hotel Room Upgrade? | Credit Card BS Podcast Ep. 43",
       "upload_date": "",
-      "filename": "0000-00-00_is-it-entitled-to-expect-a-hotel-room-upgrade-credit-card-bs-podcast-ep-43.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] -QrGCWqKgnU: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-02-25_is-it-entitled-to-expect-a-hotel-room-upgrade-credit-card-bs-podcast-ep-43.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "rE8M7BcAzQo",
       "title": "Retention Offer Full Guide | Credit Card BS Podcast Ep. 42",
       "upload_date": "",
-      "filename": "0000-00-00_retention-offer-full-guide-credit-card-bs-podcast-ep-42.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] rE8M7BcAzQo: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-02-18_retention-offer-full-guide-credit-card-bs-podcast-ep-42.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "5NX7jD35DD0",
       "title": "MARRIOTT HACKS (Everything You Need to Know) | Credit Card BS Podcast Ep. 41",
       "upload_date": "",
-      "filename": "0000-00-00_marriott-hacks-everything-you-need-to-know-credit-card-bs-podcast-ep-41.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 5NX7jD35DD0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-02-11_marriott-hacks-everything-you-need-to-know-credit-card-bs-podcast-ep-41.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "bEeHA0Vj6yQ",
       "title": "Military Credit Card Benefits (Ft. Jaden) | Credit Card BS Podcast Ep. 40",
       "upload_date": "",
-      "filename": "0000-00-00_military-credit-card-benefits-ft-jaden-credit-card-bs-podcast-ep-40.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] bEeHA0Vj6yQ: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-02-04_military-credit-card-benefits-ft-jaden-credit-card-bs-podcast-ep-40.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "pHQXb8vFRug",
       "title": "Sharing Deals is SELFISH!? | Credit Card BS Podcast Ep. 39",
       "upload_date": "",
-      "filename": "0000-00-00_sharing-deals-is-selfish-credit-card-bs-podcast-ep-39.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] pHQXb8vFRug: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-01-28_sharing-deals-is-selfish-credit-card-bs-podcast-ep-39.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "70LzyEt6xmo",
       "title": "Luxury Hyatt Credit Card Wishlist | Credit Card BS Podcast Ep. 38",
       "upload_date": "",
-      "filename": "0000-00-00_luxury-hyatt-credit-card-wishlist-credit-card-bs-podcast-ep-38.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 70LzyEt6xmo: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-01-21_luxury-hyatt-credit-card-wishlist-credit-card-bs-podcast-ep-38.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "ITJIbZnkAT0",
       "title": "SECRET Hotel Partnerships | Credit Card BS Podcast Ep. 37",
       "upload_date": "",
-      "filename": "0000-00-00_secret-hotel-partnerships-credit-card-bs-podcast-ep-37.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ITJIbZnkAT0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-01-14_secret-hotel-partnerships-credit-card-bs-podcast-ep-37.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "sPsZrw5Wxm8",
       "title": "Credit Card Mindset & Learning Curve (ft. Kevin Rodriguez) | Credit Card BS Podcast Ep. 36",
       "upload_date": "",
-      "filename": "0000-00-00_credit-card-mindset-learning-curve-ft-kevin-rodriguez-credit-card-bs-podcast-ep.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] sPsZrw5Wxm8: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2024-01-07_credit-card-mindset-learning-curve-ft-kevin-rodriguez-credit-card-bs-podcast-ep.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "VNx4nepEAJo",
       "title": "MALDIVES HACKS (How To Visit 90% Off) | Credit Card BS Podcast Ep. 35",
       "upload_date": "",
-      "filename": "0000-00-00_maldives-hacks-how-to-visit-90-off-credit-card-bs-podcast-ep-35.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] VNx4nepEAJo: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2023-12-31_maldives-hacks-how-to-visit-90-off-credit-card-bs-podcast-ep-35.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "e0WjmzylYS8",
       "title": "The Credit Card Ladder is a MYTH | Credit Card BS Podcast Ep. 34",
       "upload_date": "",
-      "filename": "0000-00-00_the-credit-card-ladder-is-a-myth-credit-card-bs-podcast-ep-34.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] e0WjmzylYS8: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2023-12-24_the-credit-card-ladder-is-a-myth-credit-card-bs-podcast-ep-34.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "UDEYWToD-60",
       "title": "Amex Platinum Credit Tier List | Credit Card BS Podcast Ep. 33",
       "upload_date": "",
-      "filename": "0000-00-00_amex-platinum-credit-tier-list-credit-card-bs-podcast-ep-33.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] UDEYWToD-60: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2023-12-17_amex-platinum-credit-tier-list-credit-card-bs-podcast-ep-33.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "ghcz15oqZUE",
       "title": "How a YouTuber With 1M Subscribers Manages Credit Cards (ft. DuckyTheGamer) | Credit Card BS Ep. 32",
       "upload_date": "",
-      "filename": "0000-00-00_how-a-youtuber-with-1m-subscribers-manages-credit-cards-ft-duckythegamer-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ghcz15oqZUE: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2023-12-10_how-a-youtuber-with-1m-subscribers-manages-credit-cards-ft-duckythegamer-credit.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "ClHj_MAE_qs",
       "title": "What's in Our Wallets? Credit Card Setup SHOWDOWN | Credit Card BS Podcast Ep 31",
       "upload_date": "",
-      "filename": "0000-00-00_what-s-in-our-wallets-credit-card-setup-showdown-credit-card-bs-podcast-ep-31.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ClHj_MAE_qs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "I9HH92FotJc",
-      "title": "Hyatt's 2024 Milestone Rewards UPDATE Fully Explained (GAME CHANGING)",
-      "upload_date": "",
-      "filename": "0000-00-00_hyatt-s-2024-milestone-rewards-update-fully-explained-game-changing.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] I9HH92FotJc: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "00IOVh1L-Bc",
-      "title": "Is Bilt TRASH? | Credit Card BS Podcast Ep. 30",
-      "upload_date": "",
-      "filename": "0000-00-00_is-bilt-trash-credit-card-bs-podcast-ep-30.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 00IOVh1L-Bc: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "EDYhGWQZr6E",
-      "title": "When Should You Buy Points? | Credit Card BS Podcast Ep. 29",
-      "upload_date": "",
-      "filename": "0000-00-00_when-should-you-buy-points-credit-card-bs-podcast-ep-29.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] EDYhGWQZr6E: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "O4zcJxUHII0",
-      "title": "Credit Card FANTASY DRAFT | The Best Keeper Cards | Credit Card BS Podcast Ep. 28",
-      "upload_date": "",
-      "filename": "0000-00-00_credit-card-fantasy-draft-the-best-keeper-cards-credit-card-bs-podcast-ep-28.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] O4zcJxUHII0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "KsTw9wjkS0k",
-      "title": "NEW Amex OPTIMAL STRATEGY 2023: Hilton Card Updates & Bonus Rules | Credit Card BS Podcast Ep. 27",
-      "upload_date": "",
-      "filename": "0000-00-00_new-amex-optimal-strategy-2023-hilton-card-updates-bonus-rules-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] KsTw9wjkS0k: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "Zc1o-ZZYqNM",
-      "title": "Rental Car HACKS | Stanford & Berkeley Students on Travel | Credit Card BS Podcast Ep. 26",
-      "upload_date": "",
-      "filename": "0000-00-00_rental-car-hacks-stanford-berkeley-students-on-travel-credit-card-bs-podcast-ep.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] Zc1o-ZZYqNM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "0m0DggABX4w",
-      "title": "Air Canada Sues Seats.Aero, Mileage Scalpers Explained | Credit Card BS Podcast Ep. 25",
-      "upload_date": "",
-      "filename": "0000-00-00_air-canada-sues-seats-aero-mileage-scalpers-explained-credit-card-bs-podcast-ep.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 0m0DggABX4w: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "t-3lFXGvL7Q",
-      "title": "PLAYER 2 Credit Card Guide | Credit Card BS Podcast Ep. 24 (Special Guest)",
-      "upload_date": "",
-      "filename": "0000-00-00_player-2-credit-card-guide-credit-card-bs-podcast-ep-24-special-guest.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] t-3lFXGvL7Q: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "s9_WbsFT7E0",
-      "title": "CPP Matters: A Hot Take | Stanford & Berkeley Students on Travel | Credit Card BS Podcast Ep. 23",
-      "upload_date": "",
-      "filename": "0000-00-00_cpp-matters-a-hot-take-stanford-berkeley-students-on-travel-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] s9_WbsFT7E0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "YwzmUKLXD3I",
-      "title": "HOTEL UPGRADE GUIDE | Stanford & Berkeley Students on Travel | Credit Card BS Ep. 22",
-      "upload_date": "",
-      "filename": "0000-00-00_hotel-upgrade-guide-stanford-berkeley-students-on-travel-credit-card-bs-ep-22.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] YwzmUKLXD3I: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "Q3nI341G9U0",
-      "title": "UNDERDOG BATTLE: Citi VS Capital One | Stanford & Berkeley Students on Travel | Credit Card BS Ep 21",
-      "upload_date": "",
-      "filename": "0000-00-00_underdog-battle-citi-vs-capital-one-stanford-berkeley-students-on-travel-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] Q3nI341G9U0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "iHuXYxbvGpM",
-      "title": "World's Best Flight Redemptions | Stanford & Berkeley Students on Travel | Credit Card BS Ep. 20",
-      "upload_date": "",
-      "filename": "0000-00-00_world-s-best-flight-redemptions-stanford-berkeley-students-on-travel-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] iHuXYxbvGpM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "uk7F2HzQoWs",
-      "title": "The World's Best Hotel Points Redemptions | Credit Card BS Podcast Ep. 19",
-      "upload_date": "",
-      "filename": "0000-00-00_the-world-s-best-hotel-points-redemptions-credit-card-bs-podcast-ep-19.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] uk7F2HzQoWs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "nbD7ojo57CY",
-      "title": "HOTEL FREE BREAKFAST GUIDE | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 18",
-      "upload_date": "",
-      "filename": "0000-00-00_hotel-free-breakfast-guide-stanford-berkeley-students-discuss-travel-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] nbD7ojo57CY: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "VhTp-WWICIA",
-      "title": "SOUTHWEST HACKS | Stanford & Berkeley Students Discuss Free Travel | Credit Card BS Podcast Ep. 17",
-      "upload_date": "",
-      "filename": "0000-00-00_southwest-hacks-stanford-berkeley-students-discuss-free-travel-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] VhTp-WWICIA: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "92g0kaDGq6A",
-      "title": "MEXICO TRAVEL HACKS | Stanford & Berkeley Students on Free Travel | Credit Card BS Podcast Ep. 16",
-      "upload_date": "",
-      "filename": "0000-00-00_mexico-travel-hacks-stanford-berkeley-students-on-free-travel-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 92g0kaDGq6A: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "qiYjbYrqu0M",
-      "title": "Top 10 Credit Card PET PEEVES | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 15",
-      "upload_date": "",
-      "filename": "0000-00-00_top-10-credit-card-pet-peeves-stanford-berkeley-students-discuss-travel-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] qiYjbYrqu0M: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "CS3qp0tdTlY",
-      "title": "Ultimate Airport Lounge Guide | Stanford & Berkeley Students Travel | Credit Card BS Podcast Ep. 14",
-      "upload_date": "",
-      "filename": "0000-00-00_ultimate-airport-lounge-guide-stanford-berkeley-students-travel-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] CS3qp0tdTlY: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "pCS3QBYXLRE",
-      "title": "HAWAII HACKS | Stanford & Berkeley Students Discuss Free Travel | Credit Card BS Podcast Ep. 13",
-      "upload_date": "",
-      "filename": "0000-00-00_hawaii-hacks-stanford-berkeley-students-discuss-free-travel-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] pCS3QBYXLRE: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "umzhiH85WkU",
-      "title": "HYATT HACKS | Stanford & Berkeley Students Discuss Travel | Credit Card BS Podcast Ep. 12",
-      "upload_date": "",
-      "filename": "0000-00-00_hyatt-hacks-stanford-berkeley-students-discuss-travel-credit-card-bs-podcast-ep.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] umzhiH85WkU: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "ty-5KXpOwtc",
-      "title": "Cash Back is TRASH?! | Stanford & Berkeley Students Discuss Travel | Credit Card BS Podcast Ep. 11",
-      "upload_date": "",
-      "filename": "0000-00-00_cash-back-is-trash-stanford-berkeley-students-discuss-travel-credit-card-bs.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] ty-5KXpOwtc: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "bLjhWGJ6-Fs",
-      "title": "FREE Cruises, Condos, Casinos | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 10",
-      "upload_date": "",
-      "filename": "0000-00-00_free-cruises-condos-casinos-stanford-berkeley-students-discuss-travel-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] bLjhWGJ6-Fs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "mHeRGKCYUWM",
-      "title": "Ways to Meet Minimum Spend | Stanford & Berkeley Students on Travel | Credit Card B.S. Episode 9",
-      "upload_date": "",
-      "filename": "0000-00-00_ways-to-meet-minimum-spend-stanford-berkeley-students-on-travel-credit-card-b-s.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] mHeRGKCYUWM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "b6tMPL8Y294",
-      "title": "Airline Credit Cards SUCK | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 8",
-      "upload_date": "",
-      "filename": "0000-00-00_airline-credit-cards-suck-stanford-berkeley-students-discuss-travel-credit-card.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] b6tMPL8Y294: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "WO4Iv8t4UGw",
-      "title": "HILTON HACKS | Stanford & Berkeley Students Discuss Travel | Credit Card BS Podcast Ep. 7",
-      "upload_date": "",
-      "filename": "0000-00-00_hilton-hacks-stanford-berkeley-students-discuss-travel-credit-card-bs-podcast.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] WO4Iv8t4UGw: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "xNvFillKZ-w",
-      "title": "Does Chase 5/24 Rule Actually Matter? | Stanford & Berkeley Students Travel | Credit Card BS Ep. 6",
-      "upload_date": "",
-      "filename": "0000-00-00_does-chase-5-24-rule-actually-matter-stanford-berkeley-students-travel-credit.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] xNvFillKZ-w: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "9GSeOK3DdTM",
-      "title": "Las Vegas Credit Card Hacks: Free Food, Hotel Discounts, Elite Status | Credit Card BS Podcast Ep. 5",
-      "upload_date": "",
-      "filename": "0000-00-00_las-vegas-credit-card-hacks-free-food-hotel-discounts-elite-status-credit-card.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] 9GSeOK3DdTM: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "A6a70KI6gJg",
-      "title": "High Spend Credit Card Strategy | Credit Card BS Podcast Ep. 4 | Stanford & Berkeley Students Travel",
-      "upload_date": "",
-      "filename": "0000-00-00_high-spend-credit-card-strategy-credit-card-bs-podcast-ep-4-stanford-berkeley.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] A6a70KI6gJg: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "xdaw16PbWNY",
-      "title": "FREE FIRST CLASS to Japan & Taiwan | Stanford and Berkeley Students on Travel | Credit Card BS Ep. 3",
-      "upload_date": "",
-      "filename": "0000-00-00_free-first-class-to-japan-taiwan-stanford-and-berkeley-students-on-travel.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] xdaw16PbWNY: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-    },
-    {
-      "video_id": "AqxOxzhOQh0",
-      "title": "Chase Trifecta is OVERRATED | Credit Card BS Podcast Ep. 2 | Stanford & Berkeley Students on Travel",
-      "upload_date": "",
-      "filename": "0000-00-00_chase-trifecta-is-overrated-credit-card-bs-podcast-ep-2-stanford-berkeley.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] AqxOxzhOQh0: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "filename": "2023-12-03_what-s-in-our-wallets-credit-card-setup-showdown-credit-card-bs-podcast-ep-31.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "D53d7uGXmLs",
       "title": "IHG HACKS | Credit Card BS Podcast Ep. 1 | Stanford and Berkeley Students Discuss Free Travel",
-      "upload_date": "",
-      "filename": "0000-00-00_ihg-hacks-credit-card-bs-podcast-ep-1-stanford-and-berkeley-students-discuss.txt",
-      "has_transcript": false,
-      "error": "ERROR: [youtube] D53d7uGXmLs: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError(\"HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "upload_date": "20230503",
+      "filename": "2023-05-03_ihg-hacks-credit-card-bs-podcast-ep-1-stanford-and-berkeley-students-discuss.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "AqxOxzhOQh0",
+      "title": "Chase Trifecta is OVERRATED | Credit Card BS Podcast Ep. 2 | Stanford & Berkeley Students on Travel",
+      "upload_date": "20230514",
+      "filename": "2023-05-14_chase-trifecta-is-overrated-credit-card-bs-podcast-ep-2-stanford-berkeley.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "xdaw16PbWNY",
+      "title": "FREE FIRST CLASS to Japan & Taiwan | Stanford and Berkeley Students on Travel | Credit Card BS Ep. 3",
+      "upload_date": "20230521",
+      "filename": "2023-05-21_free-first-class-to-japan-taiwan-stanford-and-berkeley-students-on-travel.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "A6a70KI6gJg",
+      "title": "High Spend Credit Card Strategy | Credit Card BS Podcast Ep. 4 | Stanford & Berkeley Students Travel",
+      "upload_date": "20230528",
+      "filename": "2023-05-28_high-spend-credit-card-strategy-credit-card-bs-podcast-ep-4-stanford-berkeley.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "9GSeOK3DdTM",
+      "title": "Las Vegas Credit Card Hacks: Free Food, Hotel Discounts, Elite Status | Credit Card BS Podcast Ep. 5",
+      "upload_date": "20230604",
+      "filename": "2023-06-04_las-vegas-credit-card-hacks-free-food-hotel-discounts-elite-status-credit-card.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "xNvFillKZ-w",
+      "title": "Does Chase 5/24 Rule Actually Matter? | Stanford & Berkeley Students Travel | Credit Card BS Ep. 6",
+      "upload_date": "20230611",
+      "filename": "2023-06-11_does-chase-5-24-rule-actually-matter-stanford-berkeley-students-travel-credit.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "WO4Iv8t4UGw",
+      "title": "HILTON HACKS | Stanford & Berkeley Students Discuss Travel | Credit Card BS Podcast Ep. 7",
+      "upload_date": "20230618",
+      "filename": "2023-06-18_hilton-hacks-stanford-berkeley-students-discuss-travel-credit-card-bs-podcast.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "b6tMPL8Y294",
+      "title": "Airline Credit Cards SUCK | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 8",
+      "upload_date": "20230625",
+      "filename": "2023-06-25_airline-credit-cards-suck-stanford-berkeley-students-discuss-travel-credit-card.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "mHeRGKCYUWM",
+      "title": "Ways to Meet Minimum Spend | Stanford & Berkeley Students on Travel | Credit Card B.S. Episode 9",
+      "upload_date": "20230702",
+      "filename": "2023-07-02_ways-to-meet-minimum-spend-stanford-berkeley-students-on-travel-credit-card-b-s.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "bLjhWGJ6-Fs",
+      "title": "FREE Cruises, Condos, Casinos | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 10",
+      "upload_date": "20230709",
+      "filename": "2023-07-09_free-cruises-condos-casinos-stanford-berkeley-students-discuss-travel-credit.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "ty-5KXpOwtc",
+      "title": "Cash Back is TRASH?! | Stanford & Berkeley Students Discuss Travel | Credit Card BS Podcast Ep. 11",
+      "upload_date": "20230716",
+      "filename": "2023-07-16_cash-back-is-trash-stanford-berkeley-students-discuss-travel-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "umzhiH85WkU",
+      "title": "HYATT HACKS | Stanford & Berkeley Students Discuss Travel | Credit Card BS Podcast Ep. 12",
+      "upload_date": "20230723",
+      "filename": "2023-07-23_hyatt-hacks-stanford-berkeley-students-discuss-travel-credit-card-bs-podcast-ep.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "pCS3QBYXLRE",
+      "title": "HAWAII HACKS | Stanford & Berkeley Students Discuss Free Travel | Credit Card BS Podcast Ep. 13",
+      "upload_date": "20230730",
+      "filename": "2023-07-30_hawaii-hacks-stanford-berkeley-students-discuss-free-travel-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "CS3qp0tdTlY",
+      "title": "Ultimate Airport Lounge Guide | Stanford & Berkeley Students Travel | Credit Card BS Podcast Ep. 14",
+      "upload_date": "20230806",
+      "filename": "2023-08-06_ultimate-airport-lounge-guide-stanford-berkeley-students-travel-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "qiYjbYrqu0M",
+      "title": "Top 10 Credit Card PET PEEVES | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 15",
+      "upload_date": "20230813",
+      "filename": "2023-08-13_top-10-credit-card-pet-peeves-stanford-berkeley-students-discuss-travel-credit.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "92g0kaDGq6A",
+      "title": "MEXICO TRAVEL HACKS | Stanford & Berkeley Students on Free Travel | Credit Card BS Podcast Ep. 16",
+      "upload_date": "20230820",
+      "filename": "2023-08-20_mexico-travel-hacks-stanford-berkeley-students-on-free-travel-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "VhTp-WWICIA",
+      "title": "SOUTHWEST HACKS | Stanford & Berkeley Students Discuss Free Travel | Credit Card BS Podcast Ep. 17",
+      "upload_date": "20230827",
+      "filename": "2023-08-27_southwest-hacks-stanford-berkeley-students-discuss-free-travel-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "nbD7ojo57CY",
+      "title": "HOTEL FREE BREAKFAST GUIDE | Stanford & Berkeley Students Discuss Travel | Credit Card BS Ep. 18",
+      "upload_date": "20230903",
+      "filename": "2023-09-03_hotel-free-breakfast-guide-stanford-berkeley-students-discuss-travel-credit.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "uk7F2HzQoWs",
+      "title": "The World's Best Hotel Points Redemptions | Credit Card BS Podcast Ep. 19",
+      "upload_date": "20230910",
+      "filename": "2023-09-10_the-world-s-best-hotel-points-redemptions-credit-card-bs-podcast-ep-19.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "iHuXYxbvGpM",
+      "title": "World's Best Flight Redemptions | Stanford & Berkeley Students on Travel | Credit Card BS Ep. 20",
+      "upload_date": "20230917",
+      "filename": "2023-09-17_world-s-best-flight-redemptions-stanford-berkeley-students-on-travel-credit.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "Q3nI341G9U0",
+      "title": "UNDERDOG BATTLE: Citi VS Capital One | Stanford & Berkeley Students on Travel | Credit Card BS Ep 21",
+      "upload_date": "20230924",
+      "filename": "2023-09-24_underdog-battle-citi-vs-capital-one-stanford-berkeley-students-on-travel-credit.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "YwzmUKLXD3I",
+      "title": "HOTEL UPGRADE GUIDE | Stanford & Berkeley Students on Travel | Credit Card BS Ep. 22",
+      "upload_date": "20231001",
+      "filename": "2023-10-01_hotel-upgrade-guide-stanford-berkeley-students-on-travel-credit-card-bs-ep-22.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "s9_WbsFT7E0",
+      "title": "CPP Matters: A Hot Take | Stanford & Berkeley Students on Travel | Credit Card BS Podcast Ep. 23",
+      "upload_date": "20231008",
+      "filename": "2023-10-08_cpp-matters-a-hot-take-stanford-berkeley-students-on-travel-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "t-3lFXGvL7Q",
+      "title": "PLAYER 2 Credit Card Guide | Credit Card BS Podcast Ep. 24 (Special Guest)",
+      "upload_date": "20231015",
+      "filename": "2023-10-15_player-2-credit-card-guide-credit-card-bs-podcast-ep-24-special-guest.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "0m0DggABX4w",
+      "title": "Air Canada Sues Seats.Aero, Mileage Scalpers Explained | Credit Card BS Podcast Ep. 25",
+      "upload_date": "20231022",
+      "filename": "2023-10-22_air-canada-sues-seats-aero-mileage-scalpers-explained-credit-card-bs-podcast-ep.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "Zc1o-ZZYqNM",
+      "title": "Rental Car HACKS | Stanford & Berkeley Students on Travel | Credit Card BS Podcast Ep. 26",
+      "upload_date": "20231029",
+      "filename": "2023-10-29_rental-car-hacks-stanford-berkeley-students-on-travel-credit-card-bs-podcast-ep.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "KsTw9wjkS0k",
+      "title": "NEW Amex OPTIMAL STRATEGY 2023: Hilton Card Updates & Bonus Rules | Credit Card BS Podcast Ep. 27",
+      "upload_date": "20231105",
+      "filename": "2023-11-05_new-amex-optimal-strategy-2023-hilton-card-updates-bonus-rules-credit-card-bs.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "O4zcJxUHII0",
+      "title": "Credit Card FANTASY DRAFT | The Best Keeper Cards | Credit Card BS Podcast Ep. 28",
+      "upload_date": "20231112",
+      "filename": "2023-11-12_credit-card-fantasy-draft-the-best-keeper-cards-credit-card-bs-podcast-ep-28.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "EDYhGWQZr6E",
+      "title": "When Should You Buy Points? | Credit Card BS Podcast Ep. 29",
+      "upload_date": "20231119",
+      "filename": "2023-11-19_when-should-you-buy-points-credit-card-bs-podcast-ep-29.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "00IOVh1L-Bc",
+      "title": "Is Bilt TRASH? | Credit Card BS Podcast Ep. 30",
+      "upload_date": "20231126",
+      "filename": "2023-11-26_is-bilt-trash-credit-card-bs-podcast-ep-30.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "I9HH92FotJc",
+      "title": "Hyatt's 2024 Milestone Rewards UPDATE Fully Explained (GAME CHANGING)",
+      "upload_date": "20231201",
+      "filename": "2023-12-01_hyatt-s-2024-milestone-rewards-update-fully-explained-game-changing.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "7t4pgMtteGk",
+      "title": "Earn 5x POINTS on EVERYTHING With These Credit Cards",
+      "upload_date": "20240602",
+      "filename": "2024-06-02_earn-5x-points-on-everything-with-these-credit-cards.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "ocgt8JHhvko",
+      "title": "ECONOMY Flight Survival Guide",
+      "upload_date": "20240609",
+      "filename": "2024-06-09_economy-flight-survival-guide.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "NaActbSFneQ",
+      "title": "Are IHG Milestones Worth Chasing?",
+      "upload_date": "20240616",
+      "filename": "2024-06-16_are-ihg-milestones-worth-chasing.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "rASnxO-OfCQ",
+      "title": "The Top 5 OVERRATED Credit Cards",
+      "upload_date": "20240623",
+      "filename": "2024-06-23_the-top-5-overrated-credit-cards.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "1-lFerXxpvI",
+      "title": "Is Priority Pass RUINED?",
+      "upload_date": "20240630",
+      "filename": "2024-06-30_is-priority-pass-ruined-2.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "N50DftH3raw",
+      "title": "Family Travel HACKS (Ft. Luke's Points and Miles)",
+      "upload_date": "20240707",
+      "filename": "2024-07-07_family-travel-hacks-ft-luke-s-points-and-miles.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "3dWyY8haiUE",
+      "title": "Get Hotel Elite Perks WITHOUT Status (Preferred Hotel Programs Guide)",
+      "upload_date": "20240714",
+      "filename": "2024-07-14_get-hotel-elite-perks-without-status-preferred-hotel-programs-guide.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "gbXGClAjq7Q",
+      "title": "Are Luxury Hotels OVERRATED?",
+      "upload_date": "20240721",
+      "filename": "2024-07-21_are-luxury-hotels-overrated.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "ZfyGG4OgICc",
+      "title": "AMEX GOLD REFRESH Fully Explained",
+      "upload_date": "20240725",
+      "filename": "2024-07-25_amex-gold-refresh-fully-explained.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "swRIS_dYx54",
+      "title": "Our Credit Card MISTAKES and REGRETS",
+      "upload_date": "20240728",
+      "filename": "2024-07-28_our-credit-card-mistakes-and-regrets.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "MAdMRmeciVM",
+      "title": "Credit Card Reconsideration Guide (No More Denials)",
+      "upload_date": "20240804",
+      "filename": "2024-08-04_credit-card-reconsideration-guide-no-more-denials.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "xooU6LxzldU",
+      "title": "Most *UNDERRATED* Points Redemption EVER? Virgin Voyages Explained",
+      "upload_date": "20240901",
+      "filename": "2024-09-01_most-underrated-points-redemption-ever-virgin-voyages-explained.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "OkxgPJ4jC5g",
+      "title": "Hilton Luxury Brands Explained (Waldorf Astoria, Conrad, LXR)",
+      "upload_date": "20240908",
+      "filename": "2024-09-08_hilton-luxury-brands-explained-waldorf-astoria-conrad-lxr.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "AwlXEoReCfM",
+      "title": "How to Become a Hotel Complaint EXPERT",
+      "upload_date": "20240915",
+      "filename": "2024-09-15_how-to-become-a-hotel-complaint-expert.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "wQaxS2ugjV0",
+      "title": "The Ultimate Award Travel Tool Explained (Seats.Aero)",
+      "upload_date": "20240922",
+      "filename": "2024-09-22_the-ultimate-award-travel-tool-explained-seats-aero.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "SojrPMttizM",
+      "title": "Southwest Companion Pass HACKS",
+      "upload_date": "20240929",
+      "filename": "2024-09-29_southwest-companion-pass-hacks.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "UapPCxW6hGs",
+      "title": "Earn A TON Of Miles WITHOUT Credit Cards (Shopping Portals Explained)",
+      "upload_date": "20241006",
+      "filename": "2024-10-06_earn-a-ton-of-miles-without-credit-cards-shopping-portals-explained.txt",
+      "has_transcript": true,
+      "error": null
+    },
+    {
+      "video_id": "cBgF4at_VG8",
+      "title": "NEVER Cancel a Credit Card (Product Changing Full Guide)",
+      "upload_date": "20241013",
+      "filename": "2024-10-13_never-cancel-a-credit-card-product-changing-full-guide.txt",
+      "has_transcript": true,
+      "error": null
     },
     {
       "video_id": "8xZRQLf1MM0",

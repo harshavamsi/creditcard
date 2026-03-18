@@ -24,7 +24,7 @@ COMBINED_PATH = KB_DIR / "all_transcripts.txt"
 ERRORS_PATH = KB_DIR / "errors.log"
 COOKIES_PATH = BASE_DIR / "cookies.txt"
 
-SLEEP_BETWEEN_REQUESTS = 10.0
+SLEEP_BETWEEN_REQUESTS = 0
 
 
 def slugify(title: str, max_length: int = 80) -> str:
@@ -120,18 +120,11 @@ def fetch_transcript(video_id: str) -> tuple[str | None, str | None, str | None]
             cj.load(ignore_discard=True, ignore_expires=True)
             session.cookies = cj
 
-        # Download and parse captions with retry for rate limiting
-        for attempt in range(3):
-            resp = session.get(cap_url, timeout=30)
-            if resp.status_code == 429:
-                wait = 30 * (attempt + 1)
-                print(f"  Rate limited, waiting {wait}s...", file=sys.stderr)
-                time.sleep(wait)
-                continue
-            resp.raise_for_status()
-            break
-        else:
-            return None, upload_date, "Rate limited after 3 retries"
+        # Download captions - fail fast on 429 so user can switch VPN
+        resp = session.get(cap_url, timeout=30)
+        if resp.status_code == 429:
+            return None, upload_date, "RATE_LIMITED"
+        resp.raise_for_status()
 
         cap_data = resp.json()
 
@@ -267,6 +260,7 @@ def main():
     errors_log = open(ERRORS_PATH, "a", encoding="utf-8")
     fetched = 0
     failed = 0
+    rate_limited = False
 
     for i, video in enumerate(to_fetch, 1):
         title_short = video["title"][:60]
@@ -297,17 +291,25 @@ def main():
             errors_log.write(f"[{timestamp}] {video['video_id']} - {video['title']}: {error}\n")
             print(f"  FAIL: {error[:80]}", file=sys.stderr)
 
-        if i < len(to_fetch):
-            time.sleep(SLEEP_BETWEEN_REQUESTS)
+        # Save progress after each video
+        existing_videos[video["video_id"]] = video
+        all_videos = list(existing_videos.values())
+        write_index(all_videos)
+
+        # Exit immediately on rate limit so user can switch VPN
+        if error == "RATE_LIMITED":
+            print(f"\n⛔ Rate limited! Saved progress ({fetched} fetched this run).", file=sys.stderr)
+            print("Switch VPN and re-run to continue.", file=sys.stderr)
+            rate_limited = True
+            break
 
     errors_log.close()
 
-    # Merge with existing
+    # Final merge
     for video in to_fetch:
         existing_videos[video["video_id"]] = video
     all_videos = list(existing_videos.values())
 
-    print("Writing index.json...", file=sys.stderr)
     write_index(all_videos)
     print("Writing all_transcripts.txt...", file=sys.stderr)
     write_combined(all_videos)
@@ -317,6 +319,8 @@ def main():
         f"Total: {len(all_videos)} videos in index.",
         file=sys.stderr,
     )
+    if rate_limited:
+        sys.exit(2)
 
 
 if __name__ == "__main__":
